@@ -17,7 +17,7 @@ This is my internship project at **ShadowFox**, where I built a responsive perso
 - JavaScript  
 
 ## Output  
-The following screenshots of my portfolio are available in the `screenshots` folder:  
+The following screenshots of my portfolio are available as:  
 - about me.png  
 - resume & projects.png  
 - skills.png  
